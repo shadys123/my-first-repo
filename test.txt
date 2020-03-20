@@ -1,0 +1,29 @@
+commit e7fcb053952cfa66d53144c4c67a3616c5195717
+Author: shadys123 <shady.saad@gmail.com>
+Date:   Wed Mar 18 21:00:14 2020 -0700
+
+    added gitignore
+
+commit dff92510d3c527a65adc0ac1eeef982f614d540a
+Author: shadys123 <shady.saad@gmail.com>
+Date:   Wed Mar 18 20:55:01 2020 -0700
+
+    added gitignore
+
+commit 7f00af57b0b0df3c51e6c8777a236f676866dd75
+Author: shadys123 <shady.saad@gmail.com>
+Date:   Wed Mar 18 20:51:51 2020 -0700
+
+    readme.txt
+
+commit 55de68dac552627a6fa0770ce9b5819c49f1a657
+Author: shadys123 <shady.saad@gmail.com>
+Date:   Wed Mar 18 20:10:06 2020 -0700
+
+    added two files
+
+commit 8a245c98afd73b62c71e90044c3e3e11eccaccd4
+Author: shadys123 <shady.saad@gmail.com>
+Date:   Wed Mar 18 20:00:46 2020 -0700
+
+    added readme.txt
